@@ -1,0 +1,10 @@
+Hello, I've been unable to complete the following lab for three days now:
+
+Google IT Automation with Python Professional Certificate > Troubleshooting and Debugging Techniques > Debugging and Solving Software Problems
+
+The script is referencing a resource that is unavailable at the following URL:
+http://marga.com.ar/employees-with-date.csv
+
+I've contacted Chat Support twice and told they are working on it and are unable to give any ETA, was told this is impacting all users and can reference ticket# 1776086
+
+Can someone please explain what's going on or what's being done to resolve?
